@@ -1,0 +1,19 @@
+{
+  "name": "react-ml5-word2vec",
+  "version": "1.0.0",
+  "description": "Word2Vec Model Usage",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "ml5": "0.1.3",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
